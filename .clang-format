@@ -1,0 +1,7 @@
+BasedOnStyle: Chromium
+ColumnLimit: 100
+InsertNewlineAtEOF: true
+SortIncludes: true
+PointerAlignment: Left
+DerivePointerAlignment: false
+InsertBraces: true
